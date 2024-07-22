@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "stdio.h": "c",
+      "string": "c",
+      "ostream": "cpp"
+    },
+    "liveServer.settings.multiRootWorkspaceName": ""
+  }
+}
